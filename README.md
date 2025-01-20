@@ -7,6 +7,7 @@ A professional **Fortnite Tweaker** designed to optimize your gaming experience!
 - **Ping Reduction**: Modifies configurations to help you achieve lower latency.
 - **Custom Launcher**: A built-in Fortnite launcher that optimizes game settings every time you launch Fortnite.
 - **Fortnite Practice Map Codes**: Want to inprove use the fortnite map codes in the launcher.
+- - **Custom Fortnite GameUserSettings**: New Better GameUser For Better Fps In-Game.
 
 ### Why Choose This Tweaker?
 This tool is built with the competitive Fortnite player in mind. Whether you're facing performance drops or looking for an edge, this tweaker ensures your game runs smoothly and efficiently.
